@@ -1,0 +1,97 @@
+body{
+    background-image: url(/dna.jpg);
+    background-attachment: fixed;
+}
+
+.mainTitle{
+    justify-content: center;
+    color: cornsilk;
+    text-align: center;
+    margin-inline-start: 150px;
+    margin-inline-end: 150px;
+    display: flex;
+
+}
+
+.titleChart{
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-inline-start: 150px;
+    margin-inline-end: 150px;
+    display: flex;
+    font-size: 40px;
+}
+
+.brasilChart{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.644);
+    border-radius: 30px;
+    padding-bottom: 100px;
+    padding-top: 10px;
+}
+
+.selected{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.644);
+    border-radius: 30px;
+    padding-bottom: 100px;
+    content: ;
+}
+.container{
+    display: block;
+}
+
+.container-2{
+    display: flex;
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.678);
+    margin-inline-start: 150px;
+    margin-inline-end: 150px;
+    border-radius: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 1500px;
+}
+
+.col-1{
+    margin-left: 10%;
+}
+
+.col-2{
+    margin-left: 10%;
+}
+
+.col-3{
+    margin-left: 10%;
+
+}
+
+.valuem-group{
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    width: 300px;
+
+}
+
+.valuem-control{
+   width: 300px;
+}
+
+.label{
+    color: rgb(13, 62, 223);
+    margin: 10%;
+}
+
+.selected{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
